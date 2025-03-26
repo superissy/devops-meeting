@@ -51,14 +51,14 @@ Students are required to:
 1. Create a Dockerfile for the application
 2. Build a Docker image
 3. Test the containerized application locally
-4. Push the image to a container registry (Docker Hub, AWS ECR, etc.)
+4. Push the image to a container registry (Docker Hub)
 
 ### Part 2: Kubernetes Deployment
 
 Students are required to complete the following tasks:
 
 #### Task 1: Deploy a Simple Web App on Kubernetes
-1. Create Docker file, Image and Kubernetes deployment manifests (deployment.yaml, service.yaml)
+1. Create Kubernetes deployment manifests (deployment.yaml, service.yaml)
 2. Deploy the Flask application to a Kubernetes cluster
 3. Expose it via a Service
 
