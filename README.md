@@ -58,11 +58,10 @@ Students are required to:
 Students are required to complete the following tasks:
 
 #### Task 1: Deploy a Simple Web App on Kubernetes
-1. Create Kubernetes deployment manifests (deployment.yaml, service.yaml)
+1. Create Docker file, Image and Kubernetes deployment manifests (deployment.yaml, service.yaml)
 2. Deploy the Flask application to a Kubernetes cluster
 3. Expose it via a Service
-4. Configure appropriate resources and scaling policies
-5. Implement health checks and readiness probes
+
 
 #### Task 2: Rolling Updates and Rollbacks
 1. Deploy the application with version v1
